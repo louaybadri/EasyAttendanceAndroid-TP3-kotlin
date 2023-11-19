@@ -1,6 +1,10 @@
 # Student Attendance App
 <hr>
 
+## THIS WORK IS DONE BY Louay Badri, Aziz Bellaaj, Salma Ghabri and Safa Ouesleti
+<hr>
+
+
 ## Introduction
 <hr>
 This Android app simplifies attendance tracking for teachers. It enables them to:
